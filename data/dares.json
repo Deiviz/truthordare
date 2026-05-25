@@ -1,0 +1,352 @@
+[
+  {
+    "id": "dare-001",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: susurra al otro jugador una fantasia sexual que te de curiosidad."
+  },
+  {
+    "id": "dare-002",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide permiso y besa al otro jugador en una zona no intima que elija."
+  },
+  {
+    "id": "dare-003",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: describe con detalle una escena sexual que te gustaria vivir."
+  },
+  {
+    "id": "dare-004",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dile al otro jugador que prenda le quitarias primero, solo de palabra."
+  },
+  {
+    "id": "dare-005",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: mira al otro jugador y dile una frase claramente sexual sin tocarle."
+  },
+  {
+    "id": "dare-006",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una cosa que os excite y una cosa que no quereis hacer."
+  },
+  {
+    "id": "dare-007",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pregunta al otro jugador donde le gusta mas que le besen."
+  },
+  {
+    "id": "dare-008",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: deja que el otro jugador te haga una pregunta sexual extra."
+  },
+  {
+    "id": "dare-009",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: explica una postura que te guste sin decir su nombre."
+  },
+  {
+    "id": "dare-010",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: elegid una palabra para pausar cualquier reto si algo no apetece."
+  },
+  {
+    "id": "dare-011",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide permiso y acaricia lentamente la mano, brazo o cuello del otro jugador."
+  },
+  {
+    "id": "dare-012",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: completa la frase: me excita cuando alguien..."
+  },
+  {
+    "id": "dare-013",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dile al otro jugador que parte de su cuerpo miras mas cuando no se da cuenta."
+  },
+  {
+    "id": "dare-014",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide permiso y da un beso lento al otro jugador donde ambos acepteis."
+  },
+  {
+    "id": "dare-015",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: di tres cosas que te pondrian en ambiente esta noche."
+  },
+  {
+    "id": "dare-016",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pregunta al otro jugador que tipo de preliminar disfruta mas."
+  },
+  {
+    "id": "dare-017",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: describe al otro jugador una fantasia usando solo cinco frases."
+  },
+  {
+    "id": "dare-018",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una practica que os de curiosidad y que solo hariais con consentimiento claro."
+  },
+  {
+    "id": "dare-019",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: inventa un mensaje subido de tono que enviarias antes de una cita."
+  },
+  {
+    "id": "dare-020",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide permiso y acerca tus labios al cuello del otro jugador sin besar durante 5 segundos."
+  },
+  {
+    "id": "dare-021",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dile al otro jugador que harias para provocarle sin tocarle."
+  },
+  {
+    "id": "dare-022",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: completa la frase: en la cama me gusta que me pidan..."
+  },
+  {
+    "id": "dare-023",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide al otro jugador que elija entre beso, caricia o pregunta sexual."
+  },
+  {
+    "id": "dare-024",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid algo sexual que os gustaria hablar mas abiertamente."
+  },
+  {
+    "id": "dare-025",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: mira al otro jugador y describe que harias en los primeros cinco minutos de una noche intima."
+  },
+  {
+    "id": "dare-026",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: representa durante 10 segundos como seducirias al otro jugador sin tocarle."
+  },
+  {
+    "id": "dare-027",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pregunta al otro jugador que parte de su cuerpo quiere que mimes mas."
+  },
+  {
+    "id": "dare-028",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: si ambos quereis, acerca tu cuerpo al del otro jugador durante 10 segundos sin besar."
+  },
+  {
+    "id": "dare-029",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: confiesa una cosa que te gustaria pedir la proxima vez que tengais sexo."
+  },
+  {
+    "id": "dare-030",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dile al otro jugador una zona donde te gustaria besarle."
+  },
+  {
+    "id": "dare-031",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una forma de pedir consentimiento que os resulte natural."
+  },
+  {
+    "id": "dare-032",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pregunta al otro jugador si prefiere dulzura, intensidad o juego en los preliminares."
+  },
+  {
+    "id": "dare-033",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: describe tu escenario ideal para tener sexo de forma espontanea."
+  },
+  {
+    "id": "dare-034",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dile al otro jugador un apodo sexual o picante que usarias en privado."
+  },
+  {
+    "id": "dare-035",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: cuenta al otro jugador una escena concreta que te gustaria repetir con el."
+  },
+  {
+    "id": "dare-036",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: elige entre dominar, dejarte llevar o alternar, y explica por que."
+  },
+  {
+    "id": "dare-037",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: haz al otro jugador una pregunta directa sobre lo que le gusta en la cama."
+  },
+  {
+    "id": "dare-038",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide permiso y acaricia suavemente una zona que el otro jugador elija."
+  },
+  {
+    "id": "dare-039",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: completa la frase: una noche perfecta de sexo empieza con..."
+  },
+  {
+    "id": "dare-040",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una idea picante que os daria curiosidad probar sin comprometeros a hacerla."
+  },
+  {
+    "id": "dare-041",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dile al otro jugador que movimiento, gesto o mirada suya te excita."
+  },
+  {
+    "id": "dare-042",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: di una cosa que te gustaria aprender o mejorar sexualmente."
+  },
+  {
+    "id": "dare-043",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: invita al otro jugador a elegir una fantasia para hablarla sin juzgar."
+  },
+  {
+    "id": "dare-044",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: di una frase de deseo como si estuvierais a punto de besaros."
+  },
+  {
+    "id": "dare-045",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cuenta una cosa sexual que solo harias con mucha confianza."
+  },
+  {
+    "id": "dare-046",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: pide al otro jugador que diga una cosa que le gustaria probar contigo."
+  },
+  {
+    "id": "dare-047",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: durante 20 segundos, escucha al otro jugador describir algo que le excita."
+  },
+  {
+    "id": "dare-048",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: di cual seria tu forma ideal de terminar una noche sexual perfecta."
+  },
+  {
+    "id": "dare-049",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: da al otro jugador tres opciones picantes y deja que elija una para hablar."
+  },
+  {
+    "id": "dare-050",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una cosa sexual que os apetezca explorar solo si los dos estais comodos."
+  }
+]

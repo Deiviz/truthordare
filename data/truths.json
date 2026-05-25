@@ -1,0 +1,485 @@
+[
+  {
+    "id": "truth-001",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es el sitio mas extrano o poco habitual donde has hecho el amor?"
+  },
+  {
+    "id": "truth-002",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es el sitio donde te gustaria hacerlo alguna vez?"
+  },
+  {
+    "id": "truth-003",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que parte de tu cuerpo te gusta que te besen mas?"
+  },
+  {
+    "id": "truth-004",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que parte del cuerpo del otro jugador te resulta mas tentadora?"
+  },
+  {
+    "id": "truth-005",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: prefieres sexo lento e intenso o rapido y pasional?"
+  },
+  {
+    "id": "truth-006",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es tu fantasia sexual mas repetida?"
+  },
+  {
+    "id": "truth-007",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que cosa te da morbo pero aun no has probado?"
+  },
+  {
+    "id": "truth-008",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: te gusta mas tomar el control o que lo tome la otra persona?"
+  },
+  {
+    "id": "truth-009",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que tipo de ropa interior te parece mas sexy?"
+  },
+  {
+    "id": "truth-010",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que prenda te gustaria ver puesta al otro jugador?"
+  },
+  {
+    "id": "truth-011",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que palabra o frase te excita escuchar?"
+  },
+  {
+    "id": "truth-012",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que palabra o frase te corta el rollo al instante?"
+  },
+  {
+    "id": "truth-013",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual ha sido tu experiencia sexual mas inesperada?"
+  },
+  {
+    "id": "truth-014",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que postura te gusta mas y por que?"
+  },
+  {
+    "id": "truth-015",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que postura te gustaria probar o repetir mas?"
+  },
+  {
+    "id": "truth-016",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: prefieres hacerlo con luz, a oscuras o con luz tenue?"
+  },
+  {
+    "id": "truth-017",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que parte de los preliminares no deberia faltar nunca?"
+  },
+  {
+    "id": "truth-018",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: te gusta mas besar, acariciar, morder suave o susurrar?"
+  },
+  {
+    "id": "truth-019",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que zona de tu cuerpo es mas sensible?"
+  },
+  {
+    "id": "truth-020",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que zona del otro jugador te gustaria explorar mas?"
+  },
+  {
+    "id": "truth-021",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: has usado juguetes sexuales? Cual te da curiosidad probar?"
+  },
+  {
+    "id": "truth-022",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que opinas de grabarse o hacerse fotos intimas de mutuo acuerdo?"
+  },
+  {
+    "id": "truth-023",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que te parece mas excitante, la anticipacion o la sorpresa?"
+  },
+  {
+    "id": "truth-024",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que mensaje sexual te gustaria recibir antes de veros?"
+  },
+  {
+    "id": "truth-025",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: te gusta hablar durante el sexo o prefieres dejarte llevar?"
+  },
+  {
+    "id": "truth-026",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que sonido o gesto de deseo te excita mas?"
+  },
+  {
+    "id": "truth-027",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que cosa te gustaria pedir en la cama pero te da verguenza?"
+  },
+  {
+    "id": "truth-028",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es tu limite sexual mas claro?"
+  },
+  {
+    "id": "truth-029",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que necesitas para sentirte totalmente comodo hablando de sexo?"
+  },
+  {
+    "id": "truth-030",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una cosa que os gustaria mejorar de vuestra vida sexual."
+  },
+  {
+    "id": "truth-031",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: prefieres sexo planeado o que surja de forma espontanea?"
+  },
+  {
+    "id": "truth-032",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que escena de pelicula o serie te ha parecido mas sensual?"
+  },
+  {
+    "id": "truth-033",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que tipo de beso te activa mas?"
+  },
+  {
+    "id": "truth-034",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que te excita mas, ver, tocar, escuchar o imaginar?"
+  },
+  {
+    "id": "truth-035",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que hace el otro jugador que te da ganas de acercarte?"
+  },
+  {
+    "id": "truth-036",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: te gusta mas empezar con ternura o con intensidad?"
+  },
+  {
+    "id": "truth-037",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que parte de una noche erotica disfrutas mas antes de llegar al sexo?"
+  },
+  {
+    "id": "truth-038",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que te gustaria que el otro jugador hiciera mas en la intimidad?"
+  },
+  {
+    "id": "truth-039",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que te gustaria hacer mas tu en la intimidad?"
+  },
+  {
+    "id": "truth-040",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una fantasia que os daria curiosidad comentar con calma."
+  },
+  {
+    "id": "truth-041",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que experiencia sexual te gustaria repetir?"
+  },
+  {
+    "id": "truth-042",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que experiencia sexual no repetirias?"
+  },
+  {
+    "id": "truth-043",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que te parece mas sexy, seguridad, dulzura, descaro o misterio?"
+  },
+  {
+    "id": "truth-044",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que olor, textura o ambiente te resulta mas erotico?"
+  },
+  {
+    "id": "truth-045",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que harias para preparar una noche muy sexual con el otro jugador?"
+  },
+  {
+    "id": "truth-046",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que pregunta sexual te gustaria hacerle al otro jugador?"
+  },
+  {
+    "id": "truth-047",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que te da mas morbo, prohibido, romantico, dominante o jugueton?"
+  },
+  {
+    "id": "truth-048",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que tipo de caricia te hace perder la concentracion?"
+  },
+  {
+    "id": "truth-049",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que crees que haces especialmente bien en la cama?"
+  },
+  {
+    "id": "truth-050",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una cosa sexual que os gustaria hablar sin juzgaros."
+  },
+  {
+    "id": "truth-051",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es tu fantasia mas secreta, pero que te atreverias a confesar aqui?"
+  },
+  {
+    "id": "truth-052",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que es lo primero, lo primero de verdad, en lo que te fijas de alguien que te atrae fisicamente?"
+  },
+  {
+    "id": "truth-053",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: describe tu beso ideal en detalle. Donde? Como? Que ambiente?"
+  },
+  {
+    "id": "truth-054",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es el sitio mas raro donde has besado a alguien, o sonarias con hacerlo?"
+  },
+  {
+    "id": "truth-055",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que parte de tu propio cuerpo te parece la mas sexy?"
+  },
+  {
+    "id": "truth-056",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que parte del cuerpo prefieres en una posible pareja?"
+  },
+  {
+    "id": "truth-057",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: alguna vez has tenido un rollo de una noche? Si si, fue buena o mala experiencia? No hacen falta detalles si no quieres."
+  },
+  {
+    "id": "truth-058",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que es lo mas vergonzoso que te ha pasado durante un momento intimo? Si te atreves a contarlo."
+  },
+  {
+    "id": "truth-059",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: alguna vez has tenido un sueno erotico con alguien de esta sala? Basta con responder si o no."
+  },
+  {
+    "id": "truth-060",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: alguna vez has tenido una relacion puramente sexual, como amigos con derecho o beneficios?"
+  },
+  {
+    "id": "truth-061",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: alguna vez te han pillado en pleno acto? Cuenta, si puedes."
+  },
+  {
+    "id": "truth-062",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es el lugar de tu cuerpo donde prefieres que te besen, aparte de la boca?"
+  },
+  {
+    "id": "truth-063",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es tu corta-rollos absoluto?"
+  },
+  {
+    "id": "truth-064",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que es lo mas sexy que alguien podria susurrarte al oido?"
+  },
+  {
+    "id": "truth-065",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que parte del cuerpo, aparte de las zonas erogenas clasicas, te resulta especialmente atractiva en los demas?"
+  },
+  {
+    "id": "truth-066",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es la fantasia mas comun que te gustaria probar?"
+  },
+  {
+    "id": "truth-067",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que opinas del dirty talk durante el acto? A favor o en contra? Si es a favor, di un par de frases que te gusta oir o decir."
+  },
+  {
+    "id": "truth-068",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: alguna vez has tenido una experiencia sexual en un lugar publico o semi-publico?"
+  },
+  {
+    "id": "truth-069",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: hay algo que te gustaria experimentar sexualmente pero que nunca te has atrevido a pedir?"
+  }
+]

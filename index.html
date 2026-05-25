@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Verdad o Reto</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app">
+      <section class="screen splash-screen active" id="splash-screen" aria-label="Inicio">
+        <div class="brand-mark" aria-hidden="true">
+          <span class="mini-card truth-mini">?</span>
+          <span class="mini-card dare-mini">!</span>
+        </div>
+        <p class="eyebrow">Juego para dos</p>
+        <h1>Verdad o Reto</h1>
+        <p class="splash-copy">
+          Dos barajas, turnos rapidos y cartas pensadas para romper el hielo.
+        </p>
+        <button class="primary-button" id="start-button" type="button">Empezar</button>
+      </section>
+
+      <section class="screen setup-screen" id="setup-screen" aria-label="Nombres de jugadores">
+        <div>
+          <p class="eyebrow">Antes de empezar</p>
+          <h1>Nombres</h1>
+          <p class="setup-copy">El turno y las cartas usaran estos nombres durante la partida.</p>
+        </div>
+
+        <form class="player-form" id="player-form">
+          <label>
+            <span>Jugador 1</span>
+            <input id="player-1-input" name="player1" type="text" maxlength="18" placeholder="Jugador 1" autocomplete="off">
+          </label>
+          <label>
+            <span>Jugador 2</span>
+            <input id="player-2-input" name="player2" type="text" maxlength="18" placeholder="Jugador 2" autocomplete="off">
+          </label>
+          <button class="primary-button" type="submit">Jugar</button>
+        </form>
+      </section>
+
+      <section class="screen game-screen" id="game-screen" aria-label="Partida">
+        <section class="topbar" aria-label="Estado de la partida">
+          <div>
+            <p class="eyebrow">Turno actual</p>
+            <h1 id="current-player">Jugador 1</h1>
+          </div>
+          <button class="ghost-button" id="reset-button" type="button">Reiniciar</button>
+        </section>
+
+        <section class="scoreboard" aria-label="Marcador">
+          <article class="player-chip active" id="player-1-chip">
+            <span id="player-1-name">Jugador 1</span>
+            <strong id="player-1-count">0</strong>
+          </article>
+          <article class="player-chip" id="player-2-chip">
+            <span id="player-2-name">Jugador 2</span>
+            <strong id="player-2-count">0</strong>
+          </article>
+        </section>
+
+        <section class="card-stage" aria-live="polite">
+          <article class="game-card" id="game-card">
+            <div class="card-symbol" id="card-symbol">?</div>
+            <p class="card-kind" id="card-kind">Elige una baraja</p>
+            <h2 id="card-title">Verdad o reto</h2>
+            <p class="card-text" id="card-text">
+              Pulsa una carta para empezar. El turno cambiara automaticamente despues de completar cada carta.
+            </p>
+          </article>
+        </section>
+
+        <section class="deck-actions" aria-label="Barajas">
+          <button class="deck-button truth" id="truth-button" type="button">
+            <span>Verdad</span>
+            <small id="truth-count">0 cartas</small>
+          </button>
+          <button class="deck-button dare" id="dare-button" type="button">
+            <span>Reto</span>
+            <small id="dare-count">0 cartas</small>
+          </button>
+        </section>
+
+        <button class="next-button" id="next-button" type="button" disabled>
+          Completar carta
+        </button>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

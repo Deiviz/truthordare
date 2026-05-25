@@ -1,0 +1,86 @@
+[
+  {
+    "id": "dare-001",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: haz una imitacion del otro jugador durante 20 segundos."
+  },
+  {
+    "id": "dare-002",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: deja que el otro jugador elija una palabra que no puedes decir durante los proximos 3 turnos."
+  },
+  {
+    "id": "dare-003",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cuenta una historia inventada de 30 segundos y el otro jugador debe adivinar si es falsa."
+  },
+  {
+    "id": "dare-004",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: dale al otro jugador un apodo para el resto de la partida."
+  },
+  {
+    "id": "dare-005",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: canta el estribillo de una cancion sin decir la letra real."
+  },
+  {
+    "id": "dare-006",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: mantened contacto visual durante 15 segundos sin reiros."
+  },
+  {
+    "id": "dare-007",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: envia un mensaje de voz dramatico diciendo que acabas de descubrir un secreto absurdo."
+  },
+  {
+    "id": "dare-008",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: deja que el otro jugador te haga una pregunta extra de verdad."
+  },
+  {
+    "id": "dare-009",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: interpreta durante 20 segundos como seria tu version mas exagerada."
+  },
+  {
+    "id": "dare-010",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: cread una regla absurda que se aplique hasta el final de la partida."
+  },
+  {
+    "id": "dare-011",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: habla con acento inventado hasta tu proximo turno."
+  },
+  {
+    "id": "dare-012",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: deja que el otro jugador elija tu siguiente carta: verdad o reto."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "truth-001",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: di una cosa que nunca te has atrevido a contarle al otro jugador."
+  },
+  {
+    "id": "truth-002",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual fue tu primera impresion del otro jugador?"
+  },
+  {
+    "id": "truth-003",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que es lo mas vergonzoso que te ha pasado en una cita?"
+  },
+  {
+    "id": "truth-004",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que crees que el otro jugador piensa de ti, pero no dice?"
+  },
+  {
+    "id": "truth-005",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es una mentira pequena que has dicho recientemente?"
+  },
+  {
+    "id": "truth-006",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que habito tuyo crees que podria desesperar al otro jugador?"
+  },
+  {
+    "id": "truth-007",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: que pregunta te gustaria hacerle al otro jugador pero te da corte?"
+  },
+  {
+    "id": "truth-008",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: si pudieras repetir un momento con el otro jugador, cual seria?"
+  },
+  {
+    "id": "truth-009",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que es algo que te pone nervioso admitir?"
+  },
+  {
+    "id": "truth-010",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "both_players",
+    "text": "Ambos jugadores: decid una cosa que os gustaria mejorar de vuestra comunicacion."
+  },
+  {
+    "id": "truth-011",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: que cumplido del otro jugador te gustaria recibir mas a menudo?"
+  },
+  {
+    "id": "truth-012",
+    "type": "truth",
+    "turn": "current_player",
+    "target": "current_player",
+    "text": "Jugador actual: cual es tu mayor red flag personal?"
+  }
+]
