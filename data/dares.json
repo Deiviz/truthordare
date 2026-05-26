@@ -3,364 +3,357 @@
     "id": "dare-001",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es tu fantasia mas secreta, pero que te atreverias a confesar aqui?"
+    "target": "other_player",
+    "text": "Jugador actual: dale un masaje sensual de 1 minuto en nuca, hombros o manos a la persona que elijas, si esta de acuerdo."
   },
   {
     "id": "dare-002",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que es lo primero, lo primero de verdad, en lo que te fijas de alguien que te atrae fisicamente?"
+    "target": "other_player",
+    "text": "Jugador actual: susurrale algo muy picante al oido a la persona de tu izquierda. Solo esa persona debe oirlo."
   },
   {
     "id": "dare-003",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: describe tu beso ideal en detalle. Donde? Como? Que ambiente?"
+    "text": "Jugador actual: quitate una prenda de ropa que elijas. Empezad suave: calcetin, accesorio o algo similar. Parad en cuanto alguien ya no este comodo."
   },
   {
     "id": "dare-004",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es el sitio mas raro donde has besado a alguien, o sonarias con hacerlo?"
+    "target": "other_player",
+    "text": "Jugador actual: besa a la persona que elijas, si esta de acuerdo, en la mejilla, en el cuello o en otro sitio si el consentimiento es claro y mutuo."
   },
   {
     "id": "dare-005",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: que parte de tu propio cuerpo te parece la mas sexy?"
+    "text": "Jugador actual: baila de manera abiertamente sensual durante 30 segundos con una musica elegida por los demas."
   },
   {
     "id": "dare-006",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: y que parte del cuerpo prefieres en una posible pareja?"
+    "target": "other_player",
+    "text": "Jugador actual: deja que alguien, consintiendo, te de de comer un trocito de comida con los ojos vendados."
   },
   {
     "id": "dare-007",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has tenido un rollo de una noche? Si si, fue buena o mala experiencia? No hacen falta detalles si no quieres."
+    "target": "other_player",
+    "text": "Jugador actual: escribe tu numero de telefono o tu usuario de red social en el brazo o la mano de alguien con un boli o con la punta del dedo."
   },
   {
     "id": "dare-008",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: que es lo mas loco o atrevido que estarias dispuesto a hacer por deseo?"
+    "text": "Jugador actual: describe en detalle tu ultimo beso apasionado, sin dar nombres si no quieres."
   },
   {
     "id": "dare-009",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: prefieres los preliminares largos y sensuales o ir directo al grano?"
+    "target": "other_player",
+    "text": "Jugador actual: sientate en las rodillas de alguien, si ambos estais de acuerdo, hasta tu proximo turno."
   },
   {
     "id": "dare-010",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: cual es el cumplido mas sexy que te han hecho nunca?"
+    "text": "Jugador actual: haz un striptease de tu calcetin o tu guante con la maxima sensualidad y teatralidad."
   },
   {
     "id": "dare-011",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has enviado un mensaje o una foto picante? A quien? No es obligatorio responder si es muy personal."
+    "target": "other_player",
+    "text": "Jugador actual: dale un ligero beso en el cuello a la persona que tienes enfrente, si esta de acuerdo."
   },
   {
     "id": "dare-012",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que famoso o famosa te hace fantasear mas?"
+    "target": "other_player",
+    "text": "Jugador actual: muerde suavemente el lobulo de la oreja de alguien, si esta de acuerdo."
   },
   {
     "id": "dare-013",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que es lo mas vergonzoso que te ha pasado durante un momento intimo? Si te atreves a contarlo."
+    "target": "other_player",
+    "text": "Jugador actual: elige a alguien y mirale fijamente a los ojos durante 1 minuto sin hablar ni reir."
   },
   {
     "id": "dare-014",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: luz tenue u oscuridad total? Por que?"
+    "text": "Jugador actual: dale un abrazo sensual pero breve a un cojin, imaginando que es alguien."
   },
   {
     "id": "dare-015",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has tenido un sueno erotico con alguien de esta sala? Basta con responder si o no."
+    "target": "other_player",
+    "text": "Jugador actual: intercambia una prenda de ropa visible con otra persona, si ambos estais de acuerdo, hasta el final del juego."
   },
   {
     "id": "dare-016",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que peli o escena de peli te pone especialmente a tono?"
+    "target": "other_player",
+    "text": "Jugador actual: deja que alguien te vende los ojos y adivina quien te acaricia suavemente la mano o el brazo."
   },
   {
     "id": "dare-017",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: que te hace sonrojar si o si?"
+    "text": "Jugador actual: bebe un sorbo de tu bebida de la forma mas lenta y sexy posible."
   },
   {
     "id": "dare-018",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: lenceria o ropa interior: prefieres comodidad, sexy o ambas cosas? Cual es tu preferencia para llevar o para ver?"
+    "target": "other_player",
+    "text": "Jugador actual: elige a alguien y dile sinceramente que es lo que te parece mas sexy fisicamente de esa persona."
   },
   {
     "id": "dare-019",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: cual es ese pequeno detalle, un gesto, una palabra o un olor, que puede excitarte al instante?"
+    "text": "Jugador actual: finge tener un orgasmo, con sonido o expresion facial, de manera teatral."
   },
   {
     "id": "dare-020",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: alguna vez has tenido una relacion puramente sexual, como amigos con derecho o beneficios?"
+    "text": "Jugador actual: deja que la persona a tu derecha te ponga un mote picante para el resto de la noche. Tienes que usarlo para referirte a ti al menos una vez."
   },
   {
     "id": "dare-021",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que es lo mas importante para ti durante el sexo: conexion, placer fisico, experimentacion u otra cosa?"
+    "target": "other_player",
+    "text": "Jugador actual: acercate mucho a la cara de alguien, si esta de acuerdo, susurrale algo y luego alejate lentamente."
   },
   {
     "id": "dare-022",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez te han pillado en pleno acto? Cuenta, si puedes."
+    "target": "other_player",
+    "text": "Jugador actual: elige una parte de tu cuerpo, como muneca, hombro o tobillo, y deja que alguien deposite un beso ligero ahi si ambos estais de acuerdo."
   },
   {
     "id": "dare-023",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: que opinas de los juguetes sexuales? Curioso, usuario o no te interesan?"
+    "text": "Jugador actual: ensena brevemente la ultima foto que hiciste con tu movil, aunque sea normal. Explica el contexto de forma sensual."
   },
   {
     "id": "dare-024",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es el lugar de tu cuerpo donde prefieres que te besen, aparte de la boca?"
+    "target": "other_player",
+    "text": "Jugador actual: haz 5 flexiones o 5 sentadillas mirando a alguien fijamente a los ojos de manera intensa."
   },
   {
     "id": "dare-025",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: alguna vez has mentido sobre tu numero de parejas sexuales? No hace falta dar la cifra real."
+    "text": "Jugador actual: describe a tu pareja ideal en la cama en 3 palabras."
   },
   {
     "id": "dare-026",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: cual es la musica perfecta para un ambiente sensual segun tu? Di un titulo."
+    "text": "Jugador actual: quitate otra capa de ropa si te sientes comodo y las reglas lo permiten. Para si hay incomodidad."
   },
   {
     "id": "dare-027",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es tu corta-rollos absoluto?"
+    "target": "other_player",
+    "text": "Jugador actual: deja que alguien, si ambos estais de acuerdo, te acaricie el pelo durante 30 segundos."
   },
   {
     "id": "dare-028",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: si tuvieras que describir tu libido ahora mismo con una comparacion, cual seria?"
+    "text": "Jugador actual: cuenta el principio de una historia erotica, inventada o no, y para en el momento mas crucial."
   },
   {
     "id": "dare-029",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has visto una peli erotica o porno? Cuales fueron tus impresiones?"
+    "target": "other_player",
+    "text": "Jugador actual: haz un body shot imaginario en una parte del cuerpo de alguien, como el brazo o el hombro, si esta de acuerdo."
   },
   {
     "id": "dare-030",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: prefieres dar o recibir placer? O el equilibrio es esencial?"
+    "target": "other_player",
+    "text": "Jugador actual: elige a alguien y hazle una pregunta de Verdad Picante de tu eleccion, de la lista o inventada."
   },
   {
     "id": "dare-031",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que es lo mas sexy que alguien podria susurrarte al oido?"
+    "target": "both_players",
+    "text": "Jugador actual: lanza un guino muy marcado a tres personas diferentes en la sala."
   },
   {
     "id": "dare-032",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has fingido un orgasmo? Por que?"
+    "target": "other_player",
+    "text": "Jugador actual: ponte balsamo labial o haz como si lo hicieras y luego acercate para casi besar a alguien, si esta de acuerdo."
   },
   {
     "id": "dare-033",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es tu tipo de masaje preferido: sensual, relajante, tonificante u otro?"
+    "target": "other_player",
+    "text": "Jugador actual: deja que alguien te dibuje un pequeno corazon con un boli lavable en una parte visible pero un poco escondida del cuerpo."
   },
   {
     "id": "dare-034",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: que parte del cuerpo, aparte de las zonas erogenas clasicas, te resulta especialmente atractiva en los demas?"
+    "text": "Jugador actual: haz una demostracion de tu mirada matadora o tu sonrisa seductora."
   },
   {
     "id": "dare-035",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: alguna vez has tomado la iniciativa para el primer beso o algo mas?"
+    "text": "Jugador actual: puntua del 1 al 10 el ambiente picante de la noche hasta ahora y justifica."
   },
   {
     "id": "dare-036",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: cual es tu postura favorita para dormir o para otra cosa?"
+    "text": "Jugador actual: elige una cancion e imita la letra de forma muy sugerente."
   },
   {
     "id": "dare-037",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es la fantasia mas comun que te gustaria probar?"
+    "target": "other_player",
+    "text": "Jugador actual: arrodillate delante de alguien, si esta de acuerdo, y hazle un cumplido sobre sus zapatos o sus pies."
   },
   {
     "id": "dare-038",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has tenido una experiencia embarazosa relacionada con los anticonceptivos?"
+    "target": "other_player",
+    "text": "Jugador actual: pasa delicadamente tu dedo por la mano o el brazo de la persona de tu derecha, si esta de acuerdo."
   },
   {
     "id": "dare-039",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: cual es la duracion ideal para ti para una relacion sexual, preliminares incluidos?"
+    "text": "Jugador actual: haz que adivinen una postura del Kamasutra solo con mimica, manteniendo la decencia."
   },
   {
     "id": "dare-040",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que opinas del dirty talk durante el acto? A favor o en contra?"
+    "target": "both_players",
+    "text": "Jugador actual: propon un brindis picante al grupo."
   },
   {
     "id": "dare-041",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: alguna vez te has sentido atraido por alguien poco convencional segun tus criterios habituales?"
+    "text": "Jugador actual: deja que alguien elija una palabra simple y repitela de 3 maneras diferentes: inocente, sensual y autoritaria."
   },
   {
     "id": "dare-042",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que olor, perfume o piel te vuelve especialmente loco?"
+    "target": "other_player",
+    "text": "Jugador actual: finge tomarle la temperatura a alguien, si esta de acuerdo, poniendo muy brevemente el dorso de tu mano en su frente."
   },
   {
     "id": "dare-043",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: si pudieras pasar una noche con cualquier persona real o ficticia, consintiendo claro, a quien elegirias?"
+    "text": "Jugador actual: tumbate en el suelo de manera sugerente durante 15 segundos."
   },
   {
     "id": "dare-044",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es el gesto mas sensual que te gusta hacerle a tu pareja?"
+    "target": "other_player",
+    "text": "Jugador actual: cruza y descruza las piernas lentamente mientras miras a alguien de forma significativa."
   },
   {
     "id": "dare-045",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has tenido una experiencia sexual en un lugar publico o semi-publico?"
+    "target": "other_player",
+    "text": "Jugador actual: deja que alguien, si ambos estais de acuerdo, te coloque un mechon de pelo detras de la oreja."
   },
   {
     "id": "dare-046",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: que es lo que te da mas confianza en ti mismo en la cama?"
+    "target": "other_player",
+    "text": "Jugador actual: elige a alguien y describelo como si estuvieras escribiendo el personaje de una novela erotica."
   },
   {
     "id": "dare-047",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
-    "text": "Jugador actual: que es lo mas importante que has aprendido sobre tu propia sexualidad?"
+    "text": "Jugador actual: haz un striptease de tu muneca quitandote un reloj o una pulsera con lentitud."
   },
   {
     "id": "dare-048",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: alguna vez has usado comida durante juegos amorosos?"
+    "target": "other_player",
+    "text": "Jugador actual: dale un beso en la punta de la nariz a alguien, si esta de acuerdo."
   },
   {
     "id": "dare-049",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es tu limite absoluto, eso que nunca harias en la cama?"
+    "target": "both_players",
+    "text": "Jugador actual: termina tu turno lanzando un beso sensual a todo el grupo."
   },
   {
     "id": "dare-050",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: si tuvieras que puntuar tu vida sexual actual del 1 al 10, que nota le pondrias sin juzgar?"
+    "target": "other_player",
+    "text": "Jugador actual: escribe una palabra picante invisible con el dedo en la espalda de alguien, si esta de acuerdo. Esa persona debe intentar adivinarla."
   },
   {
     "id": "dare-051",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: cual es la pregunta mas atrevida que te han hecho en este tipo de juego?"
-  },
-  {
-    "id": "dare-052",
-    "type": "dare",
-    "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: hay algo que te gustaria experimentar sexualmente pero que nunca te has atrevido a pedir?"
+    "target": "other_player",
+    "text": "Jugador actual: propon un reto picante, razonable y consensuado, a la persona que elijas para su proximo turno de Reto."
   }
 ]
