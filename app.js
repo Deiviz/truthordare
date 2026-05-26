@@ -57,7 +57,7 @@ async function loadDecks() {
   ]);
 
   state.decks.truth = shuffle([...truths]);
-  state.decks.dare = shuffle([...dares]);
+  state.decks.dare = placeCardAtDraw(shuffle([...dares]), "dare-010", 10);
   updateUi();
 }
 
@@ -66,6 +66,18 @@ function shuffle(cards) {
     .map((card) => ({ card, sort: Math.random() }))
     .sort((a, b) => a.sort - b.sort)
     .map(({ card }) => card);
+}
+
+function placeCardAtDraw(cards, cardId, drawNumber) {
+  const cardIndex = cards.findIndex((card) => card.id === cardId);
+
+  if (cardIndex === -1 || drawNumber < 1 || drawNumber > cards.length) {
+    return cards;
+  }
+
+  const [fixedCard] = cards.splice(cardIndex, 1);
+  cards.splice(cards.length - drawNumber + 1, 0, fixedCard);
+  return cards;
 }
 
 function drawCard(deckName) {
