@@ -66,291 +66,298 @@
     "id": "dare-010",
     "type": "dare",
     "turn": "current_player",
-    "target": "current_player",
-    "text": "Jugador actual: haz un striptease de tu calcetin o tu guante con la maxima sensualidad y teatralidad."
+    "target": "other_player",
+    "text": "Jugador actual: masajea y besa sensualmente los pies de la otra persona, si esta de acuerdo."
   },
   {
     "id": "dare-011",
     "type": "dare",
     "turn": "current_player",
-    "target": "other_player",
-    "text": "Jugador actual: dale un ligero beso en el cuello a la persona que tienes enfrente, si esta de acuerdo."
+    "target": "current_player",
+    "text": "Jugador actual: haz un striptease de tu calcetin o tu guante con la maxima sensualidad y teatralidad."
   },
   {
     "id": "dare-012",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
-    "text": "Jugador actual: muerde suavemente el lobulo de la oreja de alguien, si esta de acuerdo."
+    "text": "Jugador actual: dale un ligero beso en el cuello a la persona que tienes enfrente, si esta de acuerdo."
   },
   {
     "id": "dare-013",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
-    "text": "Jugador actual: elige a alguien y mirale fijamente a los ojos durante 1 minuto sin hablar ni reir."
+    "text": "Jugador actual: muerde suavemente el lobulo de la oreja de alguien, si esta de acuerdo."
   },
   {
     "id": "dare-014",
+    "type": "dare",
+    "turn": "current_player",
+    "target": "other_player",
+    "text": "Jugador actual: elige a alguien y mirale fijamente a los ojos durante 1 minuto sin hablar ni reir."
+  },
+  {
+    "id": "dare-015",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: dale un abrazo sensual pero breve a un cojin, imaginando que es alguien."
   },
   {
-    "id": "dare-015",
+    "id": "dare-016",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: intercambia una prenda de ropa visible con otra persona, si ambos estais de acuerdo, hasta el final del juego."
   },
   {
-    "id": "dare-016",
+    "id": "dare-017",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: deja que alguien te vende los ojos y adivina quien te acaricia suavemente la mano o el brazo."
   },
   {
-    "id": "dare-017",
+    "id": "dare-018",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: bebe un sorbo de tu bebida de la forma mas lenta y sexy posible."
   },
   {
-    "id": "dare-018",
+    "id": "dare-019",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: elige a alguien y dile sinceramente que es lo que te parece mas sexy fisicamente de esa persona."
   },
   {
-    "id": "dare-019",
+    "id": "dare-020",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: finge tener un orgasmo, con sonido o expresion facial, de manera teatral."
   },
   {
-    "id": "dare-020",
+    "id": "dare-021",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: deja que la persona a tu derecha te ponga un mote picante para el resto de la noche. Tienes que usarlo para referirte a ti al menos una vez."
   },
   {
-    "id": "dare-021",
+    "id": "dare-022",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: acercate mucho a la cara de alguien, si esta de acuerdo, susurrale algo y luego alejate lentamente."
   },
   {
-    "id": "dare-022",
+    "id": "dare-023",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: elige una parte de tu cuerpo, como muneca, hombro o tobillo, y deja que alguien deposite un beso ligero ahi si ambos estais de acuerdo."
   },
   {
-    "id": "dare-023",
+    "id": "dare-024",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: ensena brevemente la ultima foto que hiciste con tu movil, aunque sea normal. Explica el contexto de forma sensual."
   },
   {
-    "id": "dare-024",
+    "id": "dare-025",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: haz 5 flexiones o 5 sentadillas mirando a alguien fijamente a los ojos de manera intensa."
   },
   {
-    "id": "dare-025",
+    "id": "dare-026",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: describe a tu pareja ideal en la cama en 3 palabras."
   },
   {
-    "id": "dare-026",
+    "id": "dare-027",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: quitate otra capa de ropa si te sientes comodo y las reglas lo permiten. Para si hay incomodidad."
   },
   {
-    "id": "dare-027",
+    "id": "dare-028",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: deja que alguien, si ambos estais de acuerdo, te acaricie el pelo durante 30 segundos."
   },
   {
-    "id": "dare-028",
+    "id": "dare-029",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: cuenta el principio de una historia erotica, inventada o no, y para en el momento mas crucial."
   },
   {
-    "id": "dare-029",
+    "id": "dare-030",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: haz un body shot imaginario en una parte del cuerpo de alguien, como el brazo o el hombro, si esta de acuerdo."
   },
   {
-    "id": "dare-030",
+    "id": "dare-031",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: elige a alguien y hazle una pregunta de Verdad Picante de tu eleccion, de la lista o inventada."
   },
   {
-    "id": "dare-031",
+    "id": "dare-032",
     "type": "dare",
     "turn": "current_player",
     "target": "both_players",
     "text": "Jugador actual: lanza un guino muy marcado a tres personas diferentes en la sala."
   },
   {
-    "id": "dare-032",
+    "id": "dare-033",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: ponte balsamo labial o haz como si lo hicieras y luego acercate para casi besar a alguien, si esta de acuerdo."
   },
   {
-    "id": "dare-033",
+    "id": "dare-034",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: deja que alguien te dibuje un pequeno corazon con un boli lavable en una parte visible pero un poco escondida del cuerpo."
   },
   {
-    "id": "dare-034",
+    "id": "dare-035",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: haz una demostracion de tu mirada matadora o tu sonrisa seductora."
   },
   {
-    "id": "dare-035",
+    "id": "dare-036",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: puntua del 1 al 10 el ambiente picante de la noche hasta ahora y justifica."
   },
   {
-    "id": "dare-036",
+    "id": "dare-037",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: elige una cancion e imita la letra de forma muy sugerente."
   },
   {
-    "id": "dare-037",
+    "id": "dare-038",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: arrodillate delante de alguien, si esta de acuerdo, y hazle un cumplido sobre sus zapatos o sus pies."
   },
   {
-    "id": "dare-038",
+    "id": "dare-039",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: pasa delicadamente tu dedo por la mano o el brazo de la persona de tu derecha, si esta de acuerdo."
   },
   {
-    "id": "dare-039",
+    "id": "dare-040",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: haz que adivinen una postura del Kamasutra solo con mimica, manteniendo la decencia."
   },
   {
-    "id": "dare-040",
+    "id": "dare-041",
     "type": "dare",
     "turn": "current_player",
     "target": "both_players",
     "text": "Jugador actual: propon un brindis picante al grupo."
   },
   {
-    "id": "dare-041",
+    "id": "dare-042",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: deja que alguien elija una palabra simple y repitela de 3 maneras diferentes: inocente, sensual y autoritaria."
   },
   {
-    "id": "dare-042",
+    "id": "dare-043",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: finge tomarle la temperatura a alguien, si esta de acuerdo, poniendo muy brevemente el dorso de tu mano en su frente."
   },
   {
-    "id": "dare-043",
+    "id": "dare-044",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: tumbate en el suelo de manera sugerente durante 15 segundos."
   },
   {
-    "id": "dare-044",
+    "id": "dare-045",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: cruza y descruza las piernas lentamente mientras miras a alguien de forma significativa."
   },
   {
-    "id": "dare-045",
+    "id": "dare-046",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: deja que alguien, si ambos estais de acuerdo, te coloque un mechon de pelo detras de la oreja."
   },
   {
-    "id": "dare-046",
+    "id": "dare-047",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: elige a alguien y describelo como si estuvieras escribiendo el personaje de una novela erotica."
   },
   {
-    "id": "dare-047",
+    "id": "dare-048",
     "type": "dare",
     "turn": "current_player",
     "target": "current_player",
     "text": "Jugador actual: haz un striptease de tu muneca quitandote un reloj o una pulsera con lentitud."
   },
   {
-    "id": "dare-048",
+    "id": "dare-049",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: dale un beso en la punta de la nariz a alguien, si esta de acuerdo."
   },
   {
-    "id": "dare-049",
+    "id": "dare-050",
     "type": "dare",
     "turn": "current_player",
     "target": "both_players",
     "text": "Jugador actual: termina tu turno lanzando un beso sensual a todo el grupo."
   },
   {
-    "id": "dare-050",
+    "id": "dare-051",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
     "text": "Jugador actual: escribe una palabra picante invisible con el dedo en la espalda de alguien, si esta de acuerdo. Esa persona debe intentar adivinarla."
   },
   {
-    "id": "dare-051",
+    "id": "dare-052",
     "type": "dare",
     "turn": "current_player",
     "target": "other_player",
